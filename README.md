@@ -1,4 +1,3 @@
 # pytorch-example-notebook
-Pytorch Example Notebooks
-Reference: https://www.udemy.com/course/pytorch-deep-learning/
-More useful notebooks will be added here as well :D 
+<h5>Reference: https://www.udemy.com/course/pytorch-deep-learning/</h5>
+<h5>More useful notebooks will be added here as well :D </h5>
